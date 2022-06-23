@@ -11,5 +11,6 @@ handler.help = ['nhsearch <query>']
 handler.tags = ['nsfw']
 handler.nsfw = true
 handler.command = /^(nhs|nhsearch)$/i
+handler.premium = true
 
 module.exports = handler
