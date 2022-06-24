@@ -35,8 +35,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
-global.author = '© Hyzer Official'
+global.packname = 'MLUSticker'
+global.author = '© MLUBOT'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
