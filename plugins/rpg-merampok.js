@@ -1,7 +1,7 @@
 let { MessageType } = require('@adiwajshing/baileys')
 let pajak = 0.02
 let handler = async (m, { conn, text }) => {
-let dapat = (Math.floor(Math.random() * 100000))
+let dapat = (Math.floor(Math.random() * 10000))
   let who
   if (m.isGroup) who = m.mentionedJid[0]
   else who = m.chat
@@ -31,7 +31,7 @@ function pickRandom(list) {
 }
 function clockString(ms) {
   let h = Math.floor(ms / 86400000)
-  let m = Math.floor(ms / 60000) % 60
+  let m = Math.floor(ms / 1440000) % 60
   let s = Math.floor(ms / 1000) % 60
   console.log({ms,h,m,s})
   return [h, m, s].map(v => v.toString().padStart(2, 0) ).join(':')
