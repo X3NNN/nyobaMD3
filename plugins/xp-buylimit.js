@@ -32,7 +32,7 @@ handler.command = /^buylimit([0-9]+)|buylimit|buyalllimit$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
-handler.group = false
+handler.group = true
 handler.private = false
 
 handler.admin = false
