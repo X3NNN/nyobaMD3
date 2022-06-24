@@ -12,7 +12,7 @@ let handler = async (m, { conn, command, args }) => {
     surface : 1,
     message: 'Get Limit', 
     orderTitle: `Hyzer`,
-    thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
+    thumbnail: 'https://telegra.ph/file/ecd64887cbb994d75646e.png', 
     sellerJid: '0@s.whatsapp.net' 
     }
     }
@@ -28,11 +28,11 @@ let handler = async (m, { conn, command, args }) => {
 }
 handler.help = ['buy<jumlah limit>', 'buy <jumlah limit>', 'buyall']
 handler.tags = ['xp']
-handler.command = /^buylimit([0-9]+)|buylimit|buyalllimit$/i
+handler.command = /^buy([0-9]+)|buy|buyall$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
-handler.group = true
+handler.group = false
 handler.private = false
 
 handler.admin = false
