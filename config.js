@@ -1,12 +1,12 @@
 //=============『 Utama 』================== //
 global.owner = ['6289513753428'] 
 global.mods = [] 
-global.prems = ['6289513753428'] 
+global.prems = ['6289513753428', '6281257580986'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'DXN'
 global.numberowner = '6289513753428'
-global.instagram = 'Rahasia'
+global.instagram = '@athallah_505'
 global.github = 'h'
 global.dana = '6285877558497'
 global.gopay = '6289513753428'
