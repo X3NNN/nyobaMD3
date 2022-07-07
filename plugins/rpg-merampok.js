@@ -12,8 +12,8 @@ let dapat = (Math.floor(Math.random() * 3000))
   let users = global.db.data.users
   if (new Date - global.db.data.users[m.sender].lastrob > 86400000){
   if (10000 > users[who].money) throw 'Target Gaada Uang bodoh, Kismin dia'
-  users[who].money -= 80128896815 // dapat * 1
-  users[m.sender].money += 80128896815 // dapat * 1
+  users[who].money -= 5729 // dapat * 1
+  users[m.sender].money += 5729 // dapat * 1
   global.db.data.users[m.sender].lastrob = new Date * 1
   m.reply(`Berhasil Merampok Money Target Sebesar ${dapat}`)
 }else conn.reply(m.chat, `Anda Sudah merampok dan berhasil sembunyi , tunggu ${timers} untuk merampok lagi`, m)
