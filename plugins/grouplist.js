@@ -3,7 +3,7 @@ let handler = async (m, { conn }) => {
   conn.reply(m.chat, 'List Groups:\n' + txt, m)
 }
 handler.help = ['groups', 'grouplist']
-handler.tags = ['info']
+handler.tags = ['group']
 handler.command = /^(group(s|list))$/i
 handler.owner = false
 handler.mods = false
