@@ -3,8 +3,9 @@
 * Terimakasih udah support saya bang
 * Fitur Beta
 */
+// Recode X3
 
-const { MessageType } = require('@adiwajshing/baileys')
+let { MessageType } = require('@adiwajshing/baileys')
 
 let handler = async ( m, { conn, args, command}) => {
   conn.duel = conn.duel ? conn.duel : []
