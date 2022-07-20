@@ -20,7 +20,7 @@ global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/208c532091e14959c85aa.png' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/7ad36d0fb353052519c76.png' //ini juga ganti 
-global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
+global.lolkey = '83c5fc48e2729e348da8cf77' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'MLUBOT'
 global.watermark = wm
@@ -76,7 +76,8 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://api.lolhuman.xyz': '83c5fc48e2729e348da8cf77',
+  'https://zenzapis.xyz/' : 'db02a086e5a5',
 }
 
 //=============『 RPG GAMES 』================== //
