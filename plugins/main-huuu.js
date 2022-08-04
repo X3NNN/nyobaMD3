@@ -16,7 +16,7 @@ let stikerhuuu = [
  "https://telegra.ph/file/4a2db7bc9f3f9ecfc007d.png",//anime yntkts
  "https://telegra.ph/file/5f6079714851d9927697e.png",//windah bocil
  "https://telegra.ph/file/d5100b4ce95a0012e88c1.png",//patrick bawa minum
- "https://telegra.ph/file/2ade25087c89f86587853.png",//pak polisi pap tt
+ "https://telegra.ph/file/a9348ae063b40cd0406f1.png",//tengkorak
  "https://telegra.ph/file/eb2b5e5fff569896c1639.png",//kucing1
  "https://telegra.ph/file/bd8a0e7ea01218531798b.png",//kacamata
  "https://telegra.ph/file/300610838ffa0e6576eb9.png",//patrick pembohong
@@ -28,7 +28,7 @@ let stikerhuuu = [
  "https://telegra.ph/file/d771ae015b5486859d03f.png",//mazowski 2
  "https://telegra.ph/file/9c7606f571c05b4d0c941.png",//hengker
  "https://telegra.ph/file/84fd937257bcd614d6c9e.png",//anjing
- "https://telegra.ph/file/b8ba6989c00c50df049d0.png",//bapak bapak lovee
+ "https://telegra.ph/file/76db54842bdcf4bf37665.png",//aku jawa
  "https://telegra.ph/file/2f618fffab6ff7bea32ab.png",//abang saleh
  "https://telegra.ph/file/dfbf483c209a31f01b4e5.png"//hengker2
 ]
